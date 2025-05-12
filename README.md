@@ -1,4 +1,4 @@
-# 🚫 FocusWall - Distraction Blocker Chrome Extension
+# 🚫 FocusWall - Distraction Blocker Chrome Extension 🧱 
 
 **FocusWall** is a lightweight and privacy-friendly Chrome extension designed to help you stay focused by blocking distracting websites like **YouTube**, **Instagram**, and **Reddit** while you work or study.
 
@@ -32,6 +32,7 @@ A redirect page or blocked message appears instead of the actual site
 - ✍️ Custom Messages: Display motivational quotes or user-defined block messages
 
 ## 📸 Screenshots
+![Focus Shield Screenshot](https://github.com/Akarshjha03/FocusWall/raw/main/Screenshot%202025-05-12%20202828.png)
 
 ## Priject Stucture
 ```arduino
