@@ -1,0 +1,31 @@
+
+{
+  "manifest_version": 3,
+  "name": "Focus Blocker",
+  "version": "1.0",
+  "description": "Block YouTube, Instagram, and Reddit to stay focused.",
+  "permissions": ["declarativeNetRequest"],
+  "host_permissions": [
+    "*://www.youtube.com/*",
+    "*://www.instagram.com/*",
+    "*://www.reddit.com/*"
+  ],
+  "action": {
+    "default_title": "Focus Blocker Active"
+  },
+  "icons": {
+  "16": "images/icon16.png",
+  "48": "images/icon48.png",
+  "128": "images/icon128.png"
+  },
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "block_rules",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  }
+}
+
