@@ -25,6 +25,14 @@ A redirect page or blocked message appears instead of the actual site
 - JavaScript
 - HTML/CSS
 
+## 🚀 Future Updates
+- 🔁 Toggle Feature: Seamlessly enable/disable blocking without removing the extension
+- 🌐 Custom Sites: Allow users to add their own list of distracting sites to block
+- 📆 Scheduled Blocking: Define block windows (e.g., 9 AM – 5 PM)
+- ✍️ Custom Messages: Display motivational quotes or user-defined block messages
+
+## 📸 Screenshots
+
 ## Priject Stucture
 ```arduino
 focus-shield/
